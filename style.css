@@ -1,0 +1,12 @@
+body {
+    background: #0e83cd;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    color: white;
+}
+
+.code-block {
+    text-transform: none;
+    background-color: #5a5a5a;
+    padding: 5px;
+}
