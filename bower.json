@@ -1,0 +1,25 @@
+{
+  "name": "loader.css",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bradengroom/loader.css",
+  "authors": [
+    "Braden Groom <braden.groom@gmail.com>"
+  ],
+  "description": "A collection of CSS classes for loading animations.",
+  "main": "loader.css",
+  "keywords": [
+    "css",
+    "loading",
+    "loader",
+    "loader.css",
+    "animations"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
